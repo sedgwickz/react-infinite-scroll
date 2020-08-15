@@ -1,0 +1,21 @@
+{
+  "name": "@sedgwickz/react-infinite-scroll",
+  "version": "0.0.19",
+  "main": "dist/InfiniteScroller.js",
+  "types": "dist/InfiniteScroller.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sedgwickz <kunnsh@gmail.com>",
+  "description": "",
+  "devDependencies": {
+    "@types/react": "^16.9.46",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
